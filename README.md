@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/noob-hackers/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?
+<a href="https://github.com/eddieandres/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?
 </p>
 
 <p align="center">
